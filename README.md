@@ -1,6 +1,8 @@
 # Knowledge-map-of-family-tree
 Knowledge map of family tree （向氏家谱）
 
+# 文档说明博客链接： https://blog.csdn.net/weixin_42357472/article/details/108379893
+
 本项目主要是把数据整理出实体与关系上传eno4j图数据库做知识图谱
 
 数据源：http://xiangshijiapu.com/Family/F5186/V00251867559/WebSxtList.htm
